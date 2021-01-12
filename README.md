@@ -1,2 +1,2 @@
-# Picadu
+# Pikadu
 my first project
